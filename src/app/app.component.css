@@ -1,0 +1,7 @@
+#menuNav{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 2px 2px 2px black;
+    padding: 10px;
+    height: 30px;
+}
